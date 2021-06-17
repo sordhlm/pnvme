@@ -1,2 +1,3 @@
-# pnvme
-nvme plugin based on kernel4.15
+# Nvme Plugin
+
+This project is used to build a module based on nvme standard driver for test purpose
